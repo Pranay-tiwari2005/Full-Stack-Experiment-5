@@ -23,20 +23,6 @@ This project demonstrates how to implement *Lazy Loading (Code Splitting)* in a 
 
 ---
 
-## 📸 Screenshots
-
-### 🖥 Dashboard View
-
-![Dashboard Screenshot](./Screenshots/dashboard.png)
-
----
-
-### ⏳ Loading State
-
-![Loading Screenshot](./Screenshots/loading.png)
-
----
-
 ## 🎯 Learning Outcome
 
 This project helped in understanding:
