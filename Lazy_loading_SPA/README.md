@@ -1,4 +1,4 @@
-[4:05 PM, 2/17/2026] Priyanshu CU: # 🚀 Lazy Loading in React (Vite)
+[15:05 PM, 2/17/2026] Pranay CU: # 🚀 Lazy Loading in React (Vite)
 
 This project demonstrates how to implement *Lazy Loading (Code Splitting)* in a React application using React.lazy() and Suspense.
 
